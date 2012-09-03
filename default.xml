@@ -172,7 +172,7 @@
   <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="kernel/htc/vigor" name="Chad0989/vigor_aosp_kernel" remote="github" revision="master" />
+  <project path="kernel/htc/vigor-3.0" name="Chad0989/vigor_aosp_kernel" remote="github" revision="ics" />
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" />
   <project path="hardware/atheros/wlan" name="CyanogenMod/android_hardware_atheros_wlan" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
